@@ -12,7 +12,7 @@
 	<atom:link href="https://data.washington.edu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://data.washington.edu/</link>
 	<description></description>
-	<lastBuildDate>Sat, 06 Apr 2024 20:54:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 20:54:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,7 @@
 					<comments>https://data.washington.edu/breaking-boundaries-mastering-advanced-statistical-modeling-techniques-in-data-science/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 06 Apr 2024 20:54:34 +0000</pubDate>
+		<pubDate>Mon, 08 Apr 2024 20:54:34 +0000</pubDate>
 				<category><![CDATA[Update]]></category>
 		<guid isPermaLink="false">https://data.washington.edu/?p=1545</guid>
 
