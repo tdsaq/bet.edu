@@ -1,0 +1,67 @@
+/* Custom container */
+.container {
+  margin-top: 60px;
+  padding:10px;
+}
+.container> hr {
+  margin: 10px 0;
+}
+
+.right {
+  float:right;
+}
+.left {
+  float:left;
+}
+
+.jumbotron img {
+  height: 100px;
+  width: auto;
+  margin-bottom: 15px;
+}
+
+.masthead {
+  text-align: center;
+}
+
+.masthead h1 {
+  font-size: 32px;
+  padding-bottom: 24px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 0px;
+  text-align: center;
+  width:50%;
+}
+
+.jumbotron h2 {
+  font-size: 20px;
+}
+
+.lead {
+  font-size: 14px;
+  line-height: 130%;
+}
+
+#sponsors {
+  text-align: center;
+  padding-top: 24px;
+}
+
+.img-responsive {
+  max-width: 100%;
+  width: 750px; // overrides previous, but the previous is insurance
+  height: auto;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#additional-links {
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2.5em;
+    padding-bottom: 0.5em;
+}
